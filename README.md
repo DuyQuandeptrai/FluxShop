@@ -20,31 +20,35 @@
 
 ### 📱 Homepage
 
-_(Thêm ảnh chụp màn hình tại đây)_
+![Homepage](assets/img/Screenshot 2025-08-05 214312.png)
+![Homepage](assets/img/Screenshot 2025-08-05 214339.png)
 
 ---
 
 ### 🔍 Discovery
 
-_(Thêm ảnh chụp màn hình tại đây)_
+![Discovery](assets/img/Screenshot 2025-08-05 214355.png)
+![Discovery](assets/img/Screenshot 2025-08-05 214402.png)
 
 ---
 
 ### 📦 My Order
 
-_(Thêm ảnh chụp màn hình tại đây)_
+![Myorder](assets/img/Screenshot 2025-08-05 214427.png)
+![Myorder](assets/img/Screenshot 2025-08-05 214420.png)
+![Myorder](assets/img/Screenshot 2025-08-05 214432.png)
 
 ---
 
 ### 👤 My Profile
 
-_(Thêm ảnh chụp màn hình tại đây)_
+![Myorder](assets/img/Screenshot 2025-08-05 214440.png)
 
 ---
 
 ### 🛒 Cart
 
-_(Thêm ảnh chụp màn hình tại đây)_
+![Cart](assets/img/Screenshot 2025-08-05 214412.png)
 
 ---
 
