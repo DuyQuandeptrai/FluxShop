@@ -20,35 +20,35 @@
 
 ### 📱 Homepage
 
-![Homepage](assets/img/Screenshot 2025-08-05 214312.png)
-![Homepage](assets/img/Screenshot 2025-08-05 214339.png)
+![Homepage](assets/img/h1.png)
+![Homepage](assets/img/h2.png)
 
 ---
 
 ### 🔍 Discovery
 
-![Discovery](assets/img/Screenshot 2025-08-05 214355.png)
-![Discovery](assets/img/Screenshot 2025-08-05 214402.png)
+![Discovery](assets/img/d1.png)
+![Discovery](assets/img/d2.png)
 
 ---
 
 ### 📦 My Order
 
-![Myorder](assets/img/Screenshot 2025-08-05 214427.png)
-![Myorder](assets/img/Screenshot 2025-08-05 214420.png)
-![Myorder](assets/img/Screenshot 2025-08-05 214432.png)
+![Myorder](assets/img/o1.png)
+![Myorder](assets/img/o2.png)
+![Myorder](assets/img/o3.png)
 
 ---
 
 ### 👤 My Profile
 
-![Myorder](assets/img/Screenshot 2025-08-05 214440.png)
+![Myorder](assets/img/p1.png)
 
 ---
 
 ### 🛒 Cart
 
-![Cart](assets/img/Screenshot 2025-08-05 214412.png)
+![Cart](assets/img/c1.png)
 
 ---
 
